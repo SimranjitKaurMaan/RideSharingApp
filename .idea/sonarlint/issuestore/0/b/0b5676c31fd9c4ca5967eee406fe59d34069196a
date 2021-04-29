@@ -1,0 +1,7 @@
+
+N
+java:S16125",Replace this lambda with a method reference.(½¡Îœÿÿÿÿÿ8†ë×ö‡/
+`
+java:S25836"CChange this condition so that it does not always evaluate to "true"(´ýÉ¹8³Ž‚î‡/
+Z
+java:S36558"8Call "vehicleId.isPresent()" before accessing the value.(Ä²Ù°ûÿÿÿÿ8³Ž‚î‡/

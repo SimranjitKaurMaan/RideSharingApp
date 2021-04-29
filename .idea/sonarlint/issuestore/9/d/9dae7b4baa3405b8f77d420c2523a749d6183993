@@ -1,0 +1,11 @@
+
+j
+java:S3824C"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(«‚æ—úÿÿÿÿ8Şÿíö‡/
+j
+java:S3824$"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(¡¿‘Âúÿÿÿÿ8µ‰àæ‡/
+
+java:S1488^"_Immediately return this expression instead of assigning it to the temporary variable "rideIds".(ö‘œÄùÿÿÿÿ8¨©ï‡/
+Q
+java:S1068"/Remove this unused "userService" private field.(¶òÁÈùÿÿÿÿ8ÉËÚú‡/
+
+java:S1488T"_Immediately return this expression instead of assigning it to the temporary variable "rideIds".(·¨²ñüÿÿÿÿ8íœ¨ï‡/
